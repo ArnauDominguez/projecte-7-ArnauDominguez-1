@@ -13,7 +13,7 @@ Hem seleccionat tres perfils d'empreses de serveis IT a la zona de Mataró per e
 ###  **2\. L'Organigrama (Codi PlantUML)**
 
 Prenent com a referència una PIME de serveis informàtics mitjana de Mataró, hem estructurat la jerarquia següent. Aquest model permet separar clarament la part tècnica de la comercial.
-
+```bash
 @startuml
 skinparam Monochrome true
 skinparam shadowing false
@@ -51,7 +51,7 @@ CTO --> Software
 Vendes --> Prevenda
 
 @enduml
-
+```
 ### **3\. Radiografia de departaments**
 
 Per a una empresa que vulgui donar servei a FoodLogístic, aquests són els pilars essencials:
