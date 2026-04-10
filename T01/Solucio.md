@@ -14,41 +14,41 @@ Hem seleccionat tres perfils d'empreses de serveis IT a la zona de Mataró per e
 
 Prenent com a referència una PIME de serveis informàtics mitjana de Mataró, hem estructurat la jerarquia següent. Aquest model permet separar clarament la part tècnica de la comercial.
 
-@startuml  
-skinparam Monochrome true  
+@startuml
+skinparam Monochrome true
 skinparam shadowing false
 
 title Organigrama d'una PIME de Serveis IT (Mataró)
 
-package "Direcció General" {  
-    \[CEO / Gerència\] as CEO  
+package "Direcció General" {
+    [CEO / Gerència] as CEO
 }
 
-package "Departament Tècnic" {  
-    \[Director Tècnic (CTO)\] as CTO  
-    \[Àrea de Sistemes i Cloud\] as Sistemes  
-    \[Suport / Helpdesk\] as Suport  
-    \[Àrea de Desenvolupament / ERP\] as Software  
+package "Departament Tècnic" {
+    [Director Tècnic (CTO)] as CTO
+    [Àrea de Sistemes i Cloud] as Sistemes
+    [Suport / Helpdesk] as Suport
+    [Àrea de Desenvolupament / ERP] as Software
 }
 
-package "Departament Comercial i Màrqueting" {  
-    \[Director Comercial\] as Vendes  
-    \[Consultor Pre-venda\] as Prevenda  
+package "Departament Comercial i Màrqueting" {
+    [Director Comercial] as Vendes
+    [Consultor Pre-venda] as Prevenda
 }
 
-package "Administració" {  
-    \[Administració i RH\] as Admin  
+package "Administració" {
+    [Administració i RH] as Admin
 }
 
-CEO \--\> CTO  
-CEO \--\> Vendes  
-CEO \--\> Admin
+CEO --> CTO
+CEO --> Vendes
+CEO --> Admin
 
-CTO \--\> Sistemes  
-CTO \--\> Suport  
-CTO \--\> Software
+CTO --> Sistemes
+CTO --> Suport
+CTO --> Software
 
-Vendes \--\> Prevenda
+Vendes --> Prevenda
 
 @enduml
 
