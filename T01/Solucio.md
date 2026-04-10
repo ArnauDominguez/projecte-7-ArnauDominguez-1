@@ -80,5 +80,5 @@ Com que som una empresa que "tot just arrenca", hem d'avaluar si podem cobrir a 
   * Tècnic de Suport N1: Si FoodLogístic té molts treballadors de magatzem, necessitarem una persona dedicada exclusivament a les incidències diàries per no bloquejar els fundadors.  
   * Expert en Ciberseguretat (Extern/Freelance): Per a la renovació a fons, potser caldrà subcontractar una auditoria inicial per assegurar que la nova infraestructura és resilient.
 
-Conclusió**:** Per tancar el client amb garanties, hauríem de preveure la contractació d'almenys un tècnic de suport junior per mantenir el nivell de servei (SLA) promès en la proposta.
+Conclusió: Per tancar el client amb garanties, hauríem de preveure la contractació d'almenys un tècnic de suport junior per mantenir el nivell de servei (SLA) promès en la proposta.
 
