@@ -48,6 +48,8 @@ El fitxer `index.html` lliurat és un bloc autònom que inclou:
 
 > **Nota de Producció:** Les imatges actuals funcionen via Unsplash API per al prototipat. Es recomana la substitució per actius propis de l'empresa abans de la publicació definitiva.
 
+![img](imatges/img1.png)
+
 ---
 
 **© 2026 FoodLogistic S.A. | Documentació Tècnica de Prototipat Ràpid**
