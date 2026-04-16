@@ -52,4 +52,8 @@ El fitxer `index.html` lliurat és un bloc autònom que inclou:
 
 ---
 
+[Repositori de la web](https://github.com/ArnauDominguez/web/blob/main/README.md)
+
+---
+
 **© 2026 FoodLogistic S.A. | Documentació Tècnica de Prototipat Ràpid**
