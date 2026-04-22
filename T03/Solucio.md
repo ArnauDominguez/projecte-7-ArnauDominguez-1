@@ -26,5 +26,14 @@
 
 ![img](imatges/13.png)
 
-![img](imatges)
+![img](imatges/14.png)
 
+![img](imatges/15.png)
+
+![img](imatges/16.png)
+
+![img](imatges/17.png)
+
+![img](imatges/18.png)
+
+![img](imatges/19.png)
