@@ -1,5 +1,5 @@
 # Tasca T12: TechLaunch Mataró — De la Idea a la Startup
-**Equip:** [Noms de la parella]  
+**Equip:** Arnau Domínguez i Aleix Morillas  
 **Data:** 28 d'abril de 2026  
 **Seu:** TecnoCampus Mataró-Maresme  
 
