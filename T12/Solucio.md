@@ -61,3 +61,7 @@ L'argument que "per fer software només cal un ordinador i ser autònom" és err
 3.  **Imatge de Marca:** Per contractar amb grans empreses o ajuntaments, cal l'estructura d'una societat solvent.
 
 ---
+
+### 4. Presentació Oral Vídeo
+
+[Video](https://drive.google.com/file/d/1sh5RgMLtKJJvm3U61ye4iiKzJGl4g32q/view?usp=sharing)
