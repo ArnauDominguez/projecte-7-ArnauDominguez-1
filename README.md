@@ -6,9 +6,9 @@
 
 ## Autor
 
-Nom: [Escriu el teu nom aquí]
+Nom: Arnau Domínguez Turull
 
-Formant grups de treball: [Escriu els noms dels membres del grup aquí]
+Formant grups de treball: Arnau Domínguez Turull i Aleix Morillas Ferran
 
 ## Descripció del projecte
 
