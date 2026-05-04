@@ -1,0 +1,1 @@
+[Repositori nou](https://github.com/classesSMX2n/web-projecte7-ArnauDominguez)
