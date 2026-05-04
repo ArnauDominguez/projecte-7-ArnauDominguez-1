@@ -53,6 +53,8 @@ Com a part del desplegament de seguretat liderat per l’Arnau Domínguez i l’
 
 ### **3.4 Presència web: Requisits detallats**
 
+![img](imatges/1.png)
+
 #### **1\. Descripció funcional**
 
 Com a desenvolupadors d'aquest projecte web, la nostra missió ha estat transformar una simple landing page en una plataforma corporativa professional, segura i transparent. Ens hem centrat a equilibrar un disseny visual modern amb el compliment estricte de les normatives vigents. La nostra prioritat ha estat l'usuari: garantir que la seva navegació sigui fluida, que la informació de contacte (específicament la seu de Mataró) sigui accessible i, sobretot, que tingui el control total sobre les seves dades personals mitjançant un sistema de consentiments clar i robust.
@@ -74,6 +76,8 @@ Com a desenvolupadors d'aquest projecte web, la nostra missió ha estat transfor
   * **Enllaços Legals:** Accessibles directament des del formulari de contacte.  
 **D. Seguretat tècnica:**  
   * **Mesures de Seguretat:** Certificat SSL/TLS activat per al trànsit web i emmagatzematge segur de dades enviades.
+
+![img](imatges/2.png)
 
 ---
 
@@ -104,6 +108,8 @@ El projecte s'executarà durant un període de **4 setmanes (Abril \- Maig 2026\
 \[Setmana 2\] ───\> Fase de Disseny (T02-T04): Maquetació web i configuració de servidors.  
 \[Setmana 3\] ───\> Fase d'Implementació (T05-T07): Migració al núvol i formació LOPD.  
 \[Setmana 4\] ───\> Fase de Tancament (T08-T10): Proves finals, entrega de l'informe i pressupost.
+
+![img](imatges/img1.png)
 
 ---
 
