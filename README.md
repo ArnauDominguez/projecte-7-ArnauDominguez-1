@@ -71,3 +71,21 @@ projecte7/
 - [Guia GitHub Classroom](https://github.com/SMX2n/guia-github-classroom)
 
 Bona sort! 🚀
+
+### Tasques
+- [Tasca 01](T01/README.md)
+- [Tasca 02](T02/README.md)
+- [Tasca 03](T03/README.md)
+- [Tasca 04](T04/README.md)
+- [Tasca 05](T05/README.md)
+- [Tasca 06](T06/README.md)
+- [Tasca 07](T07/README.md)
+- [Tasca 08](T08/README.md)
+- [Tasca 09](T09/README.md)
+- [Tasca 10](T10/README.md)
+- [Tasca 11](T11/README.md)
+- [Tasca 12](T12/README.md)
+- [P01](P01/README.md)
+- [P02](P02/README.md)
+- [P03](P03/README.md)
+
